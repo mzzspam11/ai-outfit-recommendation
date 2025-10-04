@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy
+Pillow
+tqdm
+torch
+torchvision
+scikit-learn
+faiss-cpu   # optional, if you want faiss (or use annoy instead)
+annoy       # optional
+opencv-python
+python-dotenv
